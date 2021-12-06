@@ -41,6 +41,10 @@ Unpaid Vine Reviews
 
 ## Summary
 
+The percentage for the paid five star reviews: 0%
+
+The percentage for the Unpaid five star reviews: 
+
 ## Resources
 
 * Dataset:[Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Digital_Video_Games_v1_00.tsv.gz)
