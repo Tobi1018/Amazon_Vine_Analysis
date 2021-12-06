@@ -14,3 +14,14 @@ Using my knowledge of the cloud ETL process, I created an AWS RDS database with 
 Deliverable 2: Determine Bias of Vine Reviews
 
 Using my knowledge of PySpark, Pandas, or SQL, I determine if there is any bias towards reviews that were written as part of the Vine program. For this analysis, also determine if having a paid Vine review makes a difference in the percentage of 5-star reviews.
+
+### Results: 
+
+Paid Vine Reviews
+
+![paid](https://user-images.githubusercontent.com/58860105/144790586-75a193dd-bd21-4782-af9e-f3482392d723.PNG)
+
+Unpaid Vine Reviews
+
+![unpaid](https://user-images.githubusercontent.com/58860105/144790815-728d75ce-1485-4113-8d69-fcf7ab0c768e.PNG)
+
