@@ -45,6 +45,8 @@ The percentage for the paid five star reviews: 0%
 
 The percentage for the Unpaid five star reviews: 37%
 
+It was impossible to determine whether Vine's reviews are biased in favor of positivity. My dataset did not contain any rows corresponding to the Y vine. 
+
 ## Resources
 
 * Dataset:[Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Digital_Video_Games_v1_00.tsv.gz)
