@@ -43,7 +43,7 @@ Unpaid Vine Reviews
 
 The percentage for the paid five star reviews: 0%
 
-The percentage for the Unpaid five star reviews: 
+The percentage for the Unpaid five star reviews: 37%
 
 ## Resources
 
